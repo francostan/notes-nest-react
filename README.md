@@ -21,7 +21,7 @@ This project is a Notes Application.
 To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the frontend directory with `cd Ttanziola-ef3ec1/frontend`.
+2. Navigate to the frontend directory with `cd /frontend`.
 3. Install the dependencies with `npm install`.
 4. Start the application with `npm start`.
 
